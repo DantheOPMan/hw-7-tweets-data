@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-7-tweets-data/static/css/main.80ae2d0a.css",
+    "main.js": "/hw-7-tweets-data/static/js/main.8859f1b0.js",
+    "index.html": "/hw-7-tweets-data/index.html",
+    "main.80ae2d0a.css.map": "/hw-7-tweets-data/static/css/main.80ae2d0a.css.map",
+    "main.8859f1b0.js.map": "/hw-7-tweets-data/static/js/main.8859f1b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ae2d0a.css",
+    "static/js/main.8859f1b0.js"
+  ]
+}
